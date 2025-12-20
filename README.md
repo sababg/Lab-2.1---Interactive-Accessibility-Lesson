@@ -1,19 +1,17 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+## Reflection Questions
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+1: The color contrast of placeholder, I did not pay attention to the placeholder and thought it is more pretty this way.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+2: Ensure that screen readers and other tools can accurately interpret and communicate the purpose of web elements to users.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+3: I used [This website](https://webaim.org/resources/contrastchecker) . With help of this website I can check the background color and text color to see the contrast, this website has a great feature that you can change the color like a slider and at the same time see the change in the contrast.
 
-Happy Coding!
+##
+
+👤 Author
+Saba Beigi
+🌎 Charlotte, NC
+💼 GitHub @sababg
+📧 beigisaba@gmail.com
+
+Feel free to reach out with questions, feedback, or ideas!
